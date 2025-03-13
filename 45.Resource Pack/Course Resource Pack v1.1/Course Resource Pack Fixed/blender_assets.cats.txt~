@@ -1,0 +1,14 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+fc3e52cb-7373-462e-af7b-0a78599a9ed5:Foliage:Foliage
+622d51c6-3cb2-4c2a-9f01-827b1b52871e:Geometry Nodes:Geometry Nodes
+c3b4be98-2cf0-4c24-91c6-0d40a78175b5:Human Reference:Human Reference
+0abfb831-fdb9-4a09-acb5-7b2ac6253905:Materials:Materials
+a7cd0a14-37a7-406f-be8c-130f9f7a3e11:Trees:Trees
+e878a442-dbb8-4722-a602-275d86e8c1eb:Water Plants:Water Plants
